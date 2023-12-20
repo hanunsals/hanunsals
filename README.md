@@ -1,5 +1,7 @@
-#Hi, I'm Hanun Salsabila!
+#Hi, I'm Hanun Salsabila👋
 
+✨Activity:
+I'm a 3rd-year Informatics Student at Amikom University of Yogyakarta
 
 #MY STATS :
 
