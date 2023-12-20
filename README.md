@@ -11,10 +11,6 @@
 <a href="https://www.hackerrank.com/hanunsals" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hanunsals" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanunsals&show_icons=true&locale=en&layout=compact" alt="hanunsals" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanunsals&" alt="hanunsals" /></p>
-
 <h3 align="left">My Stats :</h3>
 
 [![](https://raw.githubusercontent.com/hanunsals/hanunsals/master/profile-summary-card-output/midnight_purple/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
