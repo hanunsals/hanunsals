@@ -8,8 +8,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/hanunsals" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hanunsals" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/hanunsals" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hanunsals" height="30" width="40" /></a>
-</p>
+<a href="https://www.cloudskillsboost.google/public_profiles/af2d98dd-278d-4667-bf31-61f988715c47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hanunsals" height="30" width="40" /></a>
+
 
 <h3 align="left">My Stats :</h3>
 
